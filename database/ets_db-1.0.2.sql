@@ -1,0 +1,1 @@
+ALTER TABLE ets_db.`nets_emp_ehc` CHANGE A2 A2 VARCHAR(1) CHARSET utf8 COLLATE utf8_general_ci NOT NULL;
